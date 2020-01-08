@@ -12,3 +12,4 @@ senhas = fpass.read().split('\n')
 for usuario in usuarios:
    for senha senhas:
 print "Começando... %s : %s"%(usuario,senha)
+break
